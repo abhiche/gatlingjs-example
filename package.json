@@ -1,0 +1,20 @@
+{
+  "name": "local-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "perf": "./node_modules/gatlingjs/dist/index.js"
+  },
+  "precommit": "lint, test",
+  "engines": {
+    "node": "6.9.5"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "express": "~4.14.0"
+  },
+  "devDependencies": {
+    "gatlingjs": "*"
+  }
+}
