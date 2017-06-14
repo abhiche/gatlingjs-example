@@ -1,5 +1,5 @@
 # gatlingjs-example
-Sample project demonstrating how to integrate gatlingjs to your node.js project
+Sample project demonstrating how to integrate [gatlingjs](https://github.com/abhiche/gatlingjs) to your node.js project
 
 ## Usage
 * ``` npm i ``` OR ``` yarn install ```  
